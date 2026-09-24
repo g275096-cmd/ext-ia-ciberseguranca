@@ -1,4 +1,4 @@
-# Poryg
+# Porygon.IA: Machine Learning com Pokémon
 
 ## Equipe
 
