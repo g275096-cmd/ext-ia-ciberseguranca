@@ -133,8 +133,6 @@ Espera-se que os alunos interajam e se envolvam na temática proposta, de modo a
 
 ### Contexto da Aplicação
 
-> Registre apenas as informações necessárias para compreender a atividade realizada. Não inclua dados pessoais dos participantes ou contatos individuais.
-
 - **Data ou período:** 22/10
 - **Local/contexto:** Escola Estadual Jornalista Roberto Marinho
 - **Público atendido:** Alunos do 9º ano
@@ -156,8 +154,6 @@ Nós não realizamos um formulário para coletar o Feedback dos alunos, então u
 - Grupo 5: https://teachablemachine.withgoogle.com/models/W0stN75hW/
 
 ## Plano de Aprimoramento para a Segunda Aplicação
-
-> A segunda aplicação deve incorporar aprendizados da primeira. Indique as mudanças mais importantes, sua justificativa e o efeito esperado. Não é necessário propor mudanças artificiais quando algo funcionou bem.
 
 | Evidência ou dificuldade observada | Ajuste proposto | Resultado esperado |
 | --- | --- | --- |
